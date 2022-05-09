@@ -81,8 +81,8 @@ Select one or more:
 - [ ] Food
 - [ ] Game
 - [ ] Rock
-- [ ] Employment
-- [ ] Education
-- [ ] Medical
+- [x] Employment
+- [x] Education
+- [x] Medical
 - [ ] Flight
 
