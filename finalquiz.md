@@ -416,3 +416,145 @@ Select one:
 - [ ] VLANS
 - [x] VPN
 
+### What Windows utility should be used to configure password rules and account lockout policies on a system that is not part of a domain?  
+Select one:  
+- [x] Local Security Policy tool
+- [ ] Event Viewer security log
+- [ ] Computer Management
+- [ ] Active Directory Security tool
+
+### Which technology could be used to prevent a cracker from launching a dictionary or brute-force attack off a hash?  
+Select one:  
+- [ ] AES
+- [ ] MD5
+- [x] HMAC
+- [ ] rainbow tables
+
+### Which framework should be recommended for establishing a comprehensive information security management system in an organization?  
+Select one:  
+- [ ] ISO OSI model
+- [x] ISO/IEC 27000
+- [ ] CIA Triad
+- [ ] NIST/NICE framework
+
+### A cyber criminal sends a series of maliciously formatted packets to the database server. The server cannot parse the packets and the event causes the server crash. What is the type of attack the cyber criminal launches?  
+Select one:  
+- [ ] SQL injection
+- [ ] man-in-the-middle
+- [x] DoS
+- [ ] packet Injection
+
+### An organization plans to implement security training to educate employees about security policies. What type of access control is the organization trying to implement?  
+Select one:  
+- [ ] technological
+- [ ] physical
+- [ ] logical
+- [x] administrative
+
+### What type of attack has an organization experienced when an employee installs an unauthorized device on the network to view network traffic?  
+Select one:  
+- [ ] spamming
+- [ ] phishing
+- [ ] spoofing
+- [x] sniffing
+
+### The IT department is tasked to implement a system that controls what a user can and cannot do on the corporate network. Which process should be implemented to meet the requirement?  
+Select one:  
+- [ ] observations to be provided to all employees
+- [ ] user login auditing
+- [ ] a biometric fingerprint reader
+- [x] a set of attributes that describes user access rights
+
+### An organization has determined that an employee has been cracking passwords on administrative accounts in order to access very sensitive payroll information. Which tools would you look for on the system of the employee? (Choose three)  
+Select one or more:  
+- [x] reverse lookup tables
+- [ ] password digest
+- [x] rainbow tables
+- [ ] rouge access points
+- [x] lookup tables
+- [ ] algorithm tables
+
+### Which technology would you implement to provide high availability for data storage?  
+Select one:  
+- [ ] software updates
+- [ ] hot standby
+- [x] RAID
+- [ ] N+1
+
+### Which type of cybercriminal attack would interfere with established network communication through the use of constructed packets so that the packets look like they are part of the normal communication?  
+Select one:  
+- [x] packet forgery
+- [ ] DNS spoofing
+- [ ] packet sniffing
+- [ ] rogue Wi-Fi AP
+
+### Which two protocols pose switching threats? (Choose two.). 
+Select one or more:  
+- [ ] IP
+- [x] STP
+- [x] ARP
+- [ ] RIP
+- [ ] ICMP
+- [ ] WPA2
+
+### What are two incident response phases? (Choose two.). 
+Select one or more:  
+- [x] containment and recovery
+- [x] detection and analysis
+- [ ] risk analysis and high availability
+- [ ] mitigation and acceptance
+- [ ] confidentiality and eradication
+- [ ] prevention and containment
+
+### In which situation would a detective control be warranted?  
+Select one:  
+- [x] when the organization needs to look for prohibited activity
+- [ ] after the organization has experienced a breach in order to restore everything back to a normal state
+- [ ] when the organization needs to repair damage
+- [ ] when the organization cannot use a guard dog, so it is necessary to consider an alternative
+
+### An organization has recently adopted a five nines program for two critical database servers. What type of controls will this involve?  
+Select one:  
+- [ ] stronger encryption systems
+- [ ] remote access to thousands of external users
+- [ ] limiting access to the data on these systems
+- [x] improving reliability and uptime of the servers
+
+### Your organization will be handling market trades. You will be required to verify the identify of each customer who is executing a transaction. Which technology should be implemented to authenticate and verify customer electronic transactions?  
+Select one:    
+- [ ] data hashing
+- [x] digital certificates
+- [ ] symmetrical encryption
+- [ ] asymmetrical encryption
+
+### Which risk mitigation strategies include outsourcing services and purchasing insurance?  
+Select one:  
+- [ ] acceptance
+- [x] transfer
+- [ ] reduction
+- [ ] avoidance
+
+### Which technology should be used to enforce the security policy that a computing device must be checked against the latest antivirus update before the device is allowed to connect to the campus network?  
+Select one:  
+- [ ] NAS
+- [ ] VPN
+- [ ] SAN
+- [x] NAC
+
+### What technique creates different hashes for the same password?  
+Select one:  
+- [ ] salting
+- [ ] HMAC
+- [ ] SHA-256
+- [ ] CRC
+
+### Which access control strategy allows an object owner to determine whether to allow access to the object?  
+Select one:  
+- [ ] MAC
+- [ ] RBAC
+- [ ] ACL
+- [x] DAC
+
+
+
+
