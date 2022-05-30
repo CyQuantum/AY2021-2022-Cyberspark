@@ -360,5 +360,30 @@ Select one:
 - [ ] WPA
 - [ ] SCP
 
+### Which utility uses the Internet Control Messaging Protocol (ICMP)?  
+Select one:  
+- [ ] DNS
+- [x] ping
+- [ ] NTP
+- [ ] RIP
 
+### A penetration testing service hired by the company has reported that a backdoor was identified on the network. What action should the organization take to find out if systems have been compromised?  
+Select one:  
+ - [ ] Scan the systems for viruses.
+ - [ ] Look for policy changes in Event Viewer.
+ - [ ] Look for unauthorized accounts.
+ - [x] Look for usernames that do not have passwords.
 
+### What is an impersonation attack that takes advantage of a trusted relationship between two systems?
+Select one:
+- [ ] spamming
+- [x] spoofing
+- [ ] sniffing
+- [ ] man-in-the-middle
+
+### You have been asked to implement a data integrity program to protect data files that need to be electronically downloaded by the sales staff. You have decided to use the strongest hashing algorithm available on your systems. Which hash algorithm would you select?  
+Select one:  
+- [ ] SHA-1
+- [ ] MD5
+- [x] SHA-256
+- [ ] AES
