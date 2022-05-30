@@ -350,7 +350,7 @@ Select one:
 Select one:  
 - [ ] encrypted data
 - [ ] data in-transit
-- [ ] stored data
+- [x] stored data
 - [ ] data in-process
 
 ### Which protocol would be used to provide security for employees that access systems remotely from home?  
