@@ -543,7 +543,7 @@ Select one:
 
 ### What technique creates different hashes for the same password?  
 Select one:  
-- [ ] salting
+- [x] salting
 - [ ] HMAC
 - [ ] SHA-256
 - [ ] CRC
@@ -555,6 +555,138 @@ Select one:
 - [ ] ACL
 - [x] DAC
 
+### The employees in a company receive an email stating that the account password will expire immediately and requires a password reset within 5 minutes. Which statement would classify this email?  
+Select one:  
+- [ ] It is a piggy-back attack.
+- [ ] It is an impersonation attack.
+- [x] It is a hoax.
+- [ ] It is a DDoS attack.
 
+### A specialist in the HR department is invited to promote the cybersecurity program in community schools. Which three topics would the specialist emphasize in the presentation to draw students to this field? (Choose three.). 
+Select one or more:  
+- [ ] a field requiring a PhD degree
+- [x] a career-field in high-demand
+- [ ] the CompTIA A+ certification provides an adequate knowledge base for the field
+- [x] service to the public
+- [x] high earning potential
+- [ ] a job with routine, day-to-day tasks
 
+### An organization wants to adopt a labeling system based on the value, sensitivity, and criticality of the information. What element of risk management is recommended?  
+Select one:  
+- [ ] asset identification
+- [x] asset classification
+- [ ] asset availability
+- [ ] asset standardization
 
+### Which technology can be used to ensure data confidentiality?  
+Select one:  
+- [ ] hashing
+- [ ] identity management
+- [x] encryption
+- [ ] RAID
+
+### Which of the following products or technologies would you use to establish a baseline for an operating system?  
+Select one:  
+- [ ] SANS Baselining System (SBS)
+- [ ] MS Baseliner
+- [x] Microsoft Security Baseline Analyzer
+- [ ] CVE Baseline Analyzer
+
+### Passwords, passphrases, and PINs are examples of which security term?  
+Select one:  
+- [ ] identification
+- [x] authentication
+- [ ] authorization
+- [ ] access
+
+### What technology should be implemented to verify the identity of an organization, to authenticate its website, and to provide an encrypted connection between a client and the website?  
+Select one:  
+- [ ] asymmetric encryption
+- [ ] digital signature
+- [ ] salting
+- [x] digital certificate
+
+### What kind of integrity does a database have when all its rows have a unique identifier called a primary key?  
+Select one:  
+- [ ] user-defined integrity
+- [ ] referential integrity
+- [ ] domain integrity
+- [x] entity integrity
+
+### Which two groups of people are considered internal attackers? (Choose two.)  
+Select one or more:  
+- [x] ex-employees
+- [ ] amateurs
+- [ ] hacktivists
+- [x] trusted partners
+- [ ] black hat hackers
+
+### What happens as the key length increases in an encryption application?  
+Select one:  
+- [ ] Keyspace increases proportionally.
+- [x] Keyspace increases exponentially.
+- [ ] Keyspace decreases proportionally.
+- [ ] Keyspace decreases exponentially.
+
+### Which type of cybercriminal is the most likely to create malware to compromise an organization by stealing credit card information?  
+Select one:  
+- [ ] script kiddies
+- [ ] gray hat hackers
+- [ ] white hat hackers
+- [x] black hat hackers
+
+### Which technology can be implemented as part of an authentication system to verify the identification of employees?  
+Select one:  
+- [ ] SHA-1 hash
+- [ ] a Mantrap
+- [x] a smart card reader
+- [ ] a virtual fingerprint
+
+### Which hashing technology requires keys to be exchanged?  
+Select one:  
+- [ ] MD5
+- [ ] salting
+- [ ] AES
+- [ ] HMAC
+
+### Your risk manager just distributed a chart that uses three colors to identify the level of threat to key assets in the information security systems. Red represents high level of risk, yellow represents average level of threat and green represents low level of threat. What type of risk analysis does this chart represent?  
+Select one:  
+- [x] qualitative analysis
+- [ ] exposure factor analysis
+- [ ] loss analysis
+- [ ] quantitative analysis
+
+### Which statement describes a distributed denial of service attack?"  
+Select one:  
+- [ ] One computer accepts data packets based on the MAC address of another computer.
+- [ ] An attacker sends an enormous quantity of data that a server cannot handle.
+- [x] An attacker builds a botnet comprised of zombies.
+- [ ] An attacker views network traffic to learn authentication credentials.
+
+### An organization has implemented antivirus software. What type of security control did the company implement?  
+Select one:  
+- [ ] compensative control
+- [ ] deterrent control
+- [ ] detective control
+- [x] recovery control
+
+### Which national resource was developed as a result of a U.S. Executive Order after a ten-month collaborative study involving over 3,000 security professionals?  
+Select one:  
+- [ ] the National Vulnerability Database (NVD)
+- [x] NIST Framework
+- [ ] ISO/IEC 27000
+- [ ] ISO OSI model
+
+### Which website offers guidance on putting together a checklist to provide guidance on configuring and hardening operating systems?  
+Select one:  
+- [ ] Internet Storm Center
+- [x] The National Vulnerability Database website
+- [ ] CERT
+- [ ] The Advanced Cyber Security Center
+
+### HVAC, water system, and fire systems fall under which of the cybersecurity domains?  
+Select one:  
+- [x] physical facilities
+- [ ] network
+- [ ] user
+- [ ] device
