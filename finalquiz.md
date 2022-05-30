@@ -371,8 +371,8 @@ Select one:
 Select one:  
  - [ ] Scan the systems for viruses.
  - [ ] Look for policy changes in Event Viewer.
- - [ ] Look for unauthorized accounts.
- - [x] Look for usernames that do not have passwords.
+ - [x] Look for unauthorized accounts.
+ - [ ] Look for usernames that do not have passwords.
 
 ### What is an impersonation attack that takes advantage of a trusted relationship between two systems?
 Select one:
@@ -387,3 +387,32 @@ Select one:
 - [ ] MD5
 - [x] SHA-256
 - [ ] AES
+
+### You have been asked to work with the data collection and entry staff in your organization in order to improve data integrity during initial data entry and data modification operations. Several staff members ask you to explain why the new data entry screens limit the types and size of data able to be entered in specific fields. What is an example of a new data integrity control?   
+Select one:   
+- [ ] data encryption operations that prevent any unauthorized users from accessing sensitive data
+- [ ] a limitation rule which has been implemented to prevent unauthorized staff from entering sensitive data
+- [ ] data entry controls which only allow entry staff to view current data
+- [x] a validation rule which has been implemented to ensure completeness, accuracy, and consistency of data
+
+### An executive manager went to an important meeting. The secretary in the office receives a call from a person claiming that the executive manager is about to give an important presentation but the presentation files are corrupted. The caller sternly recommends that the secretary email the presentation right away to a personal email address. The caller also states that the executive is holding the secretary responsible for the success of this presentation. Which type of social engineering tactic would describe this scenario?  
+Select one:  
+- [ ] urgency
+- [ ] trusted partners
+- [x] intimidation
+- [ ] familiarity
+
+### Alice and Bob use a pre-shared key to exchange a confidential message. If Bob wants to send a confidential message to Carol, what key should he use?  
+Select one:  
+- [ ] the public key of Bob
+- [x] a new pre-shared key
+- [ ] the same pre-shared key he used with Alice
+- [ ] the private key of Carol
+
+### An organization allows employees to work from home two days a week. Which technology should be implemented to ensure data confidentiality as data is transmitted?  
+Select one:  
+- [ ] SHS
+- [ ] RAID
+- [ ] VLANS
+- [x] VPN
+
