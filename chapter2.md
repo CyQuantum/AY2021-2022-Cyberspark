@@ -161,3 +161,12 @@ Select one or more:
 - [ ] use encryption
 - [ ] ensure confidentiality
 - [x] provide for reliable crossover
+
+### What are the three foundational principles of the cybersecurity domain? (Choose three.). 
+Select one or more:  
+- [ ] policy
+- [x] integrity
+- [x] confidentiality
+- [x] availability
+- [ ] security
+- [ ] encryption
