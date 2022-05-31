@@ -697,3 +697,10 @@ Select one:
 - [x] confidentiality, integrity, and availability
 - [ ] secrecy, identify, and nonrepudiation
 - [ ] encryption, authentication, and identification
+
+### Which hashing algorithm is recommended for the protection of sensitive, unclassified information?  
+Select one:  
+- [ ] 3DES
+- [ ] AES-256
+- [x] SHA-256
+- [ ] MD5
