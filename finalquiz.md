@@ -94,7 +94,7 @@ Select one:
 Select one:  
 - [ ] Infragard
 - [ ] CVE database
-- [ ] Honeynet project
+- [x] Honeynet project
 - [ ] ISO/IEC 27000 program
 
 ### Which algorithm will Windows use by default when a user intends to encrypt files and folders in an NTFS volume?
@@ -690,3 +690,10 @@ Select one:
 - [ ] network
 - [ ] user
 - [ ] device
+
+### A cybersecurity specialist is working with the IT staff to establish an effective information security plan. Which combination of security principles forms the foundation of a security plan?  
+Select one:  
+- [ ] technologies, policies, and awareness
+- [x] confidentiality, integrity, and availability
+- [ ] secrecy, identify, and nonrepudiation
+- [ ] encryption, authentication, and identification
