@@ -647,7 +647,7 @@ Select one:
 - [ ] MD5
 - [ ] salting
 - [ ] AES
-- [ ] HMAC
+- [x] HMAC
 
 ### Your risk manager just distributed a chart that uses three colors to identify the level of threat to key assets in the information security systems. Red represents high level of risk, yellow represents average level of threat and green represents low level of threat. What type of risk analysis does this chart represent?  
 Select one:  
